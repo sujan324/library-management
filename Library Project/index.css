@@ -1,0 +1,51 @@
+body{
+    background-image:url("https://miro.medium.com/v2/resize:fit:1100/0*mMD5SlIbFvgkGo3l");
+    background-size:cover;
+    
+}
+.head{
+    color: rgb(32, 100, 194);
+    background-color: rgb(232, 200, 104);
+    background-size:cover;
+    text-align: center;
+    font-weight: bold;
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.formbox{
+    background-image: linear-gradient(to bottom right,rgb(224, 66, 66),rgb(165, 178, 241),rgb(231, 191, 106));
+    background-size: cover;
+    padding:25px;
+    border-radius: 10px;
+    border-style: groove;
+    border-color: black;
+    box-shadow: inset;
+    height:fit-content;
+    
+}
+.bton{
+    font-family:'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-style: italic;
+    align-items: center;
+    background-color: rgb(76, 43, 226);
+    border-color: rgb(249, 239, 95);
+}
+.head1{
+    margin-top: 20px;
+    color: rgb(32, 100, 194);
+    background-color: rgb(232, 200, 104);
+    background-size:cover;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.table{
+    background-color: bisque;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    color: black;
+    font-weight: 700;
+    
+}
